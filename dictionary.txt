@@ -1,0 +1,14 @@
+# The Emojilang dictionary
+# Maintained in loose conf format
+
+[syntax]
+👉 make literal (L)
+
+# http://unicode.org/Public/emoji/4.0/emoji-data.txt
+[definitions]
+😶
+n: emoji
+Ln: face
+🤔
+a: hmm
+Ln: think
