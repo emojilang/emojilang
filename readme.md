@@ -2,7 +2,7 @@
 
 Emojilang is a based entirely in the standard set of Unicode emojis. 
 It was developed by user [digigon](https://www.reddit.com/u/digigon) in November of 2016 and first appeared on the [conlangs](https://www.reddit.com/r/conlangs/comments/5f8rzw/a_serious_emoji_conlang) subreddit.
-Since, it has seen significant development on its own [subreddit](https://www.reddit.com/r/emojilang) and [discord](https://discord.gg/WWaTn6u)
+Since, it has seen significant development on its own [subreddit](https://www.reddit.com/r/emojilang) and [discord](https://discord.gg/WWaTn6u).
 
 ## Overview
 
